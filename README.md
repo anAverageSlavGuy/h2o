@@ -28,10 +28,6 @@ You can also quickly test this program simply by starting the server and writing
 
       http://{SERVERIP}:{PORT}?action=connect&ip={CAMIPADDRESS}&user={CAMUSERNAME}&pass={CAMPASSWORD}
 
-[ Coming soon: installation script ]
-
-Let us know your thoughts!
-
 ####################################################
 
 Credits (Thanks to):
